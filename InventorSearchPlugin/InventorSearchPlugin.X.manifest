@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+
+  <assemblyIdentity name="InventorSearchPlugin" version="1.0.0.0"></assemblyIdentity>
+
+  <clrClass clsid="{c9dbb858-694a-4a0c-ba1c-0d06eb52616b}" progid="InventorSearchPlugin.StandardAddInServer" threadingModel="Both" name="InventorSearchPlugin.StandardAddInServer" runtimeVersion=""></clrClass>
+
+  <file name="InventorSearchPlugin.dll" hashalg="SHA1"></file>
+
+</assembly>

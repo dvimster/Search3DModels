@@ -1,0 +1,14 @@
+<Addin Type="Standard">
+  <!--Created for Autodesk Inventor Version 19.0-->
+  <ClassId>{c9dbb858-694a-4a0c-ba1c-0d06eb52616b}</ClassId>
+  <ClientId>{c9dbb858-694a-4a0c-ba1c-0d06eb52616b}</ClientId>
+  <DisplayName>InventorSearchPlugin</DisplayName>
+  <Description>InventorSearchPlugin</Description>
+  <Assembly>D:\SandBox\InventorPluginForSearching3DModel\src\InventorSearchPlugin\InventorSearchPlugin\bin\Debug\InventorSearchPlugin.dll</Assembly>
+  <LoadOnStartUp>1</LoadOnStartUp>
+  <UserUnloadable>1</UserUnloadable>
+  <Hidden>0</Hidden>
+  <SupportedSoftwareVersionGreaterThan>18..</SupportedSoftwareVersionGreaterThan>
+  <DataVersion>1</DataVersion>
+  <UserInterfaceVersion>1</UserInterfaceVersion>
+</Addin>
